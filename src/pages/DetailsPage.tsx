@@ -1,3 +1,3 @@
 export default function DetailsPage() {
-    return <div>Details Page</div>
+  return <div>Details Page</div>;
 }

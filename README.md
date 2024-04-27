@@ -6,3 +6,6 @@
 
 // install react router
 - npm install react-router-dom
+
+// styling
+- npm install react-icons
